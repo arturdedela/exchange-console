@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-namespace HotelsBackup
+namespace ExchangeConsole
 {
     internal class Program
     {
